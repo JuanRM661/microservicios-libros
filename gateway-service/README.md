@@ -15,7 +15,7 @@ docker build -t gateway-service .
 docker run -p 8080:8080 gateway-service
 ```
 
-## 🔐 Seguridad (Opcional)
+## 🔐 Seguridad
 
 JWT puede ser implementado para proteger rutas específicas.
 
