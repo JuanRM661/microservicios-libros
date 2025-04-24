@@ -11,7 +11,7 @@ Este proyecto es una implementación de un sistema distribuido utilizando arquit
 - **Spring WebFlux**
 - **MongoDB**
 - **Spring Cloud Gateway**
-- **Spring Cloud Netflix Eureka (opcional)**
+- **Spring Cloud Netflix Eureka**
 - **Spring Boot Actuator**
 - **Docker & Docker Compose**
 - **GitHub Actions**
