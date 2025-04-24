@@ -1,8 +1,17 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>3.2.2</version>
+    <relativePath/>
+  </parent>
+
   <groupId>com.ejemplo</groupId>
   <artifactId>servicio</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
   <dependencies>
     <dependency>
       <groupId>org.springframework.boot</groupId>
