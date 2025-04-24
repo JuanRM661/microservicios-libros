@@ -13,8 +13,8 @@ Microservicio encargado de la gestión de libros.
 
 ## 🧪 Pruebas
 
-- **Unitarias**: `SampleServiceTest`
-- **Integración**: `SampleControllerTest` (WebTestClient)
+- **Unitarias**: `LibroServiceTest`
+- **Integración**: `LibroControllerTest` (WebTestClient)
 
 ## 🐳 Docker
 

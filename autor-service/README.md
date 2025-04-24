@@ -11,8 +11,8 @@ Microservicio para el registro y gestión de autores.
 
 ## 🧪 Pruebas
 
-- **Unitarias**: `SampleServiceTest`
-- **Integración**: `SampleControllerTest` (WebTestClient)
+- **Unitarias**: `AutorServiceTest`
+- **Integración**: `AutorControllerTest` (WebTestClient)
 
 ## 🐳 Docker
 
